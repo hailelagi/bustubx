@@ -11,6 +11,7 @@ mod parser;
 mod planner;
 mod storage;
 mod transaction;
+mod primer;
 
 pub use common::util::pretty_format_tuples;
 pub use database::Database;
